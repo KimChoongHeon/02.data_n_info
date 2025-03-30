@@ -1,0 +1,1 @@
+bible_world_language.zip filter=lfs diff=lfs merge=lfs -text
